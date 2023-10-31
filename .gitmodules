@@ -1,6 +1,4 @@
-[submodule "devops-lab2"]
-	path = devops-lab2
-	url = https://github.com/koize/devops-lab2.git
 [submodule "devops_lab2"]
 	path = devops_lab2
 	url = https://github.com/koize/devops-lab2.git
+	ignore = dirty
